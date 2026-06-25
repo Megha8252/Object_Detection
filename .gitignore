@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+runs/
+yolov8n.pt
+coco128.zip
+
+*.log
+.DS_Store
+Thumbs.db
